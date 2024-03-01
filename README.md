@@ -5,12 +5,11 @@ Read more at
 
   - Reddit (English): https://www.reddit.com/r/linux/comments/cbfr32/yggdrassil_plug_and_play_linux_fall_1994/
   - linux-user.gr (Greek): https://linux-user.gr/t/yggdrassil-plug-and-play-linux-fall-1994/798
-  - Series of setup videos on @gavrilovegor519 YouTube channel (Russian): https://youtube.com/playlist?list=PLj9iOWMU_RtSydy0ZuWc_LD_rRxp53bf0
+  - Russian YouTube channel with some videos about Yggdrasil: https://youtube.com/@gavrilovegor519
 
 **QEMU and VirtualBox is not working! Use a 86Box for boot this distro!**
 
 ## Get the ISO
-The GitHub needs money for LFS storage, so @jtsagata delete and recreate the repository.
 
 Get the ISO from https://drive.google.com/file/d/12EjeCiAxFqvTKL4x5H9UbY7yvnIzrKj7/view
 
